@@ -29540,7 +29540,7 @@
                     return o(this, function(e) {
                         switch (e.label) {
                             case 0:
-                                return t = this, [4, i.loadFrozenModel("/model/tensorflowjs_model.pb", "/model/weights_manifest.json")];
+                                return t = this, [4, i.loadFrozenModel("./model/tensorflowjs_model.pb", "./model/weights_manifest.json")];
                             case 1:
                                 return t.model = e.sent(), [2]
                         }
