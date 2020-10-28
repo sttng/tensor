@@ -28886,7 +28886,7 @@
                 4: this.emojiLvl4,
                 5: this.emojiLvl5,
                 "#": this.emojiLvlDemo
-            }, this.gameDifficulty = "1121222345", this.currentLvlIndex = 0, this.audioSources = ((e = {})[r.AUDIO.GAME_LOOP] = new Audio("./audio/game-loop.mp4"), e[r.AUDIO.TIME_RUNNING_LOW] = new Audio("./audio/time-running-out.mp4"), e[r.AUDIO.COUNTDOWN] = new Audio("./audio/countdown.mp4"), e[r.AUDIO.FAIL] = new Audio("./audio/fail.mp4"), e[r.AUDIO.FOUND_IT] = new Audio("/audio/foundit.mp4"), e[r.AUDIO.WIN] = new Audio("/audio/win.mp4"), e[r.AUDIO.END] = new Audio("/audio/end-of-game.mp4"), e[r.AUDIO.TIMER_INCREASE] = new Audio("/audio/timer-increase.mp4"), e), c.isIOS() && (this.audioSources[r.AUDIO.IOS_SPEECH_SPRITE] = new Audio("/audio/ios-speech-sprite.m4a")), "true" === c.getQueryParam("demo") && (this.setupDemoMode(), this.demoMode = !0), "true" === c.getQueryParam("debug") && (this.debugMode = !0), window.speechSynthesis && (this.setupSpeakVoice(), void 0 !== window.speechSynthesis.onvoiceschanged && (window.speechSynthesis.onvoiceschanged = this.setupSpeakVoice.bind(this))), i.share.initShareElements()
+            }, this.gameDifficulty = "1121222345", this.currentLvlIndex = 0, this.audioSources = ((e = {})[r.AUDIO.GAME_LOOP] = new Audio("./audio/game-loop.mp4"), e[r.AUDIO.TIME_RUNNING_LOW] = new Audio("./audio/time-running-out.mp4"), e[r.AUDIO.COUNTDOWN] = new Audio("./audio/countdown.mp4"), e[r.AUDIO.FAIL] = new Audio("./audio/fail.mp4"), e[r.AUDIO.FOUND_IT] = new Audio("./audio/foundit.mp4"), e[r.AUDIO.WIN] = new Audio("./audio/win.mp4"), e[r.AUDIO.END] = new Audio("./audio/end-of-game.mp4"), e[r.AUDIO.TIMER_INCREASE] = new Audio("./audio/timer-increase.mp4"), e), c.isIOS() && (this.audioSources[r.AUDIO.IOS_SPEECH_SPRITE] = new Audio("./audio/ios-speech-sprite.m4a")), "true" === c.getQueryParam("demo") && (this.setupDemoMode(), this.demoMode = !0), "true" === c.getQueryParam("debug") && (this.debugMode = !0), window.speechSynthesis && (this.setupSpeakVoice(), void 0 !== window.speechSynthesis.onvoiceschanged && (window.speechSynthesis.onvoiceschanged = this.setupSpeakVoice.bind(this))), i.share.initShareElements()
         }
         r.Game = g, r.game = new g
     }, {
@@ -28909,23 +28909,23 @@
         }), r.EMOJIS_LVL_1 = [{
             name: "hand",
             emoji: "âœ‹",
-            path: "/img/emojis/game/hand.svg"
+            path: "./img/emojis/game/hand.svg"
         }, {
             name: "mouse",
             emoji: "ðŸ–±",
-            path: "/img/emojis/game/mouse.svg"
+            path: "./img/emojis/game/mouse.svg"
         }, {
             name: "plug",
             emoji: "ðŸ”Œ",
-            path: "/img/emojis/game/plug.svg"
+            path: "./img/emojis/game/plug.svg"
         }, {
             name: "light bulb",
             emoji: "ðŸ’¡",
-            path: "/img/emojis/game/light bulb.svg"
+            path: "./img/emojis/game/light bulb.svg"
         }, {
             name: "book",
             emoji: "ðŸ“š",
-            path: "/img/emojis/game/book.svg"
+            path: "./img/emojis/game/book.svg"
         }, {
             name: "cellphone",
             emoji: "ðŸ“±",
