@@ -38,6 +38,10 @@ async function run() {
 tfvis.show.modelSummary({name: 'Model Architecture'}, model);
   
 await train(model, data);
+  
+  await showAccuracy(model, data);
+await showConfusion(model, data);
+  
 }
 
 document.addEventListener('DOMContentLoaded', run);
