@@ -52,7 +52,7 @@ var model = undefined;
 // to get everything needed to run.
 // Note: cocoSsd is an external object loaded from our index.html
 // script tag import so ignore any warning in Glitch.
-cocoSsd.load().then(function (loadedModel) {
+mobilenet.load().then(function (loadedModel) {
   model = loadedModel;
   // Show demo section now model is ready to use.
   demosSection.classList.remove('invisible');
