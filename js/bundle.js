@@ -28702,7 +28702,7 @@
         var m = [{
             nonGoogleVoice: "Samantha",
             googleVoice: "Google US English",
-            emoji: "/img/emojis/ui/sleuth.svg"
+            emoji: "./img/emojis/ui/sleuth.svg"
         }];
         r.AUDIO = {
             GAME_LOOP: "gameloop",
@@ -28929,379 +28929,379 @@
         }, {
             name: "cellphone",
             emoji: "ðŸ“±",
-            path: "/img/emojis/game/cellphone.svg"
+            path: "./img/emojis/game/cellphone.svg"
         }, {
             name: "keyboard",
             emoji: "âŒ¨ï¸",
-            path: "/img/emojis/game/keyboard.svg"
+            path: "./img/emojis/game/keyboard.svg"
         }, {
             name: "tv",
             emoji: "ðŸ“º",
-            path: "/img/emojis/game/tv.svg"
+            path: "./img/emojis/game/tv.svg"
         }, {
             name: "laptop",
             emoji: "ðŸ’»",
-            path: "/img/emojis/game/laptop.svg"
+            path: "./img/emojis/game/laptop.svg"
         }, {
             name: "shirt",
             emoji: "ðŸ‘•",
-            path: "/img/emojis/game/shirt.svg"
+            path: "./img/emojis/game/shirt.svg"
         }, {
             name: "pants",
             emoji: "ðŸ‘–",
-            path: "/img/emojis/game/pants.svg"
+            path: "./img/emojis/game/pants.svg"
         }, {
             name: "shoe",
             emoji: "ðŸ‘ž",
-            path: "/img/emojis/game/shoe.svg"
+            path: "./img/emojis/game/shoe.svg"
         }], r.EMOJIS_LVL_2 = [{
             name: "key",
             emoji: "ðŸ”‘",
-            path: "/img/emojis/game/key.svg"
+            path: "./img/emojis/game/key.svg"
         }, {
             name: "newspaper",
             emoji: "ðŸ“°",
-            path: "/img/emojis/game/newspaper.svg"
+            path: "./img/emojis/game/newspaper.svg"
         }, {
             name: "plate",
             emoji: "ðŸ½",
-            path: "/img/emojis/game/plate.svg"
+            path: "./img/emojis/game/plate.svg"
         }, {
             name: "sock",
             emoji: "ðŸ§¦",
-            path: "/img/emojis/game/sock.svg"
+            path: "./img/emojis/game/sock.svg"
         }, {
             name: "coat",
             emoji: "ðŸ§¥",
-            path: "/img/emojis/game/coat.svg"
+            path: "./img/emojis/game/coat.svg"
         }, {
             name: "wallet",
             emoji: "ðŸ‘›",
-            path: "/img/emojis/game/wallet.svg"
+            path: "./img/emojis/game/wallet.svg"
         }, {
             name: "bed",
             emoji: "ðŸ›",
-            path: "/img/emojis/game/bed.svg"
+            path: "./img/emojis/game/bed.svg"
         }, {
             name: "cup",
             emoji: "â˜•",
-            path: "/img/emojis/game/cup.svg"
+            path: "./img/emojis/game/cup.svg"
         }, {
             name: "watch",
             emoji: "âŒš",
-            path: "/img/emojis/game/watch.svg"
+            path: "./img/emojis/game/watch.svg"
         }, {
             name: "trash can",
             emoji: "ðŸ—‘",
-            path: "/img/emojis/game/trash can.svg"
+            path: "./img/emojis/game/trash can.svg"
         }, {
             name: "envelope",
             emoji: "âœ‰ï¸",
-            path: "/img/emojis/game/envelope.svg"
+            path: "./img/emojis/game/envelope.svg"
         }, {
             name: "sunglasses",
             emoji: "ðŸ•¶",
-            path: "/img/emojis/game/sunglasses.svg"
+            path: "./img/emojis/game/sunglasses.svg"
         }, {
             name: "toilet",
             emoji: "ðŸš½",
-            path: "/img/emojis/game/toilet.svg"
+            path: "./img/emojis/game/toilet.svg"
         }, {
             name: "clock",
             emoji: "ðŸ•‘",
-            path: "/img/emojis/game/clock.svg"
+            path: "./img/emojis/game/clock.svg"
         }, {
             name: "hat",
             emoji: "ðŸ§¢",
-            path: "/img/emojis/game/hat.svg"
+            path: "./img/emojis/game/hat.svg"
         }, {
             name: "backpack",
             emoji: "ðŸŽ’",
-            path: "/img/emojis/game/backpack.svg"
+            path: "./img/emojis/game/backpack.svg"
         }, {
             name: "headphones",
             emoji: "ðŸŽ§",
-            path: "/img/emojis/game/headphones.svg"
+            path: "./img/emojis/game/headphones.svg"
         }, {
             name: "display",
             emoji: "ðŸ–¥",
-            path: "/img/emojis/game/display.svg"
+            path: "./img/emojis/game/display.svg"
         }, {
             name: "spoon",
             emoji: "ðŸ¥„",
-            path: "/img/emojis/game/spoon.svg"
+            path: "./img/emojis/game/spoon.svg"
         }, {
             name: "bowl",
             emoji: "ðŸ¥£",
-            path: "/img/emojis/game/bowl.svg"
+            path: "./img/emojis/game/bowl.svg"
         }], r.EMOJIS_LVL_3 = [{
             name: "scarf",
             emoji: "ðŸ§£",
-            path: "/img/emojis/game/scarf.svg"
+            path: "./img/emojis/game/scarf.svg"
         }, {
             name: "scissors",
             emoji: "âœ‚ï¸",
-            path: "/img/emojis/game/scissors.svg"
+            path: "./img/emojis/game/scissors.svg"
         }, {
             name: "cabinet",
             emoji: "ðŸ—„",
-            path: "/img/emojis/game/cabinet.svg"
+            path: "./img/emojis/game/cabinet.svg"
         }, {
             name: "tree",
             emoji: "ðŸŒ²",
-            path: "/img/emojis/game/tree.svg"
+            path: "./img/emojis/game/tree.svg"
         }, {
             name: "beer",
             emoji: "ðŸº",
-            path: "/img/emojis/game/beer.svg"
+            path: "./img/emojis/game/beer.svg"
         }, {
             name: "sofa",
             emoji: "ðŸ›‹",
-            path: "/img/emojis/game/sofa.svg"
+            path: "./img/emojis/game/sofa.svg"
         }, {
             name: "house",
             emoji: "ðŸ ",
-            path: "/img/emojis/game/house.svg"
+            path: "./img/emojis/game/house.svg"
         }, {
             name: "building",
             emoji: "ðŸ¢",
-            path: "/img/emojis/game/building.svg"
+            path: "./img/emojis/game/building.svg"
         }, {
             name: "bicycle",
             emoji: "ðŸš²",
-            path: "/img/emojis/game/bicycle.svg"
+            path: "./img/emojis/game/bicycle.svg"
         }, {
             name: "frying pan",
             emoji: "ðŸ³",
-            path: "/img/emojis/game/frying pan.svg"
+            path: "./img/emojis/game/frying pan.svg"
         }, {
             name: "wine",
             emoji: "ðŸ·",
-            path: "/img/emojis/game/wine.svg"
+            path: "./img/emojis/game/wine.svg"
         }, {
             name: "bread",
             emoji: "ðŸž",
-            path: "/img/emojis/game/bread.svg"
+            path: "./img/emojis/game/bread.svg"
         }, {
             name: "printer",
             emoji: "ðŸ–¨",
-            path: "/img/emojis/game/printer.svg"
+            path: "./img/emojis/game/printer.svg"
         }, {
             name: "banana",
             emoji: "ðŸŒ",
-            path: "/img/emojis/game/banana.svg"
+            path: "./img/emojis/game/banana.svg"
         }, {
             name: "car",
             emoji: "ðŸš—",
-            path: "/img/emojis/game/car.svg"
+            path: "./img/emojis/game/car.svg"
         }, {
             name: "flower",
             emoji: "ðŸŒ¼",
-            path: "/img/emojis/game/flower.svg"
+            path: "./img/emojis/game/flower.svg"
         }, {
             name: "glove",
             emoji: "ðŸ§¤",
-            path: "/img/emojis/game/glove.svg"
+            path: "./img/emojis/game/glove.svg"
         }, {
             name: "umbrella",
             emoji: "â˜‚ï¸",
-            path: "/img/emojis/game/umbrella.svg"
+            path: "./img/emojis/game/umbrella.svg"
         }, {
             name: "bathtub",
             emoji: "ðŸ›",
-            path: "/img/emojis/game/bathtub.svg"
+            path: "./img/emojis/game/bathtub.svg"
         }, {
             name: "camera",
             emoji: "ðŸ“·",
-            path: "/img/emojis/game/camera.svg"
+            path: "./img/emojis/game/camera.svg"
         }], r.EMOJIS_LVL_4 = [{
             name: "cat",
             emoji: "ðŸ±",
-            path: "/img/emojis/game/cat.svg"
+            path: "./img/emojis/game/cat.svg"
         }, {
             name: "guitar",
             emoji: "ðŸŽ¸",
-            path: "/img/emojis/game/guitar.svg"
+            path: "./img/emojis/game/guitar.svg"
         }, {
             name: "dog",
             emoji: "ðŸ¶",
-            path: "/img/emojis/game/dog.svg"
+            path: "./img/emojis/game/dog.svg"
         }, {
             name: "orange",
             emoji: "ðŸŠ",
-            path: "/img/emojis/game/orange.svg"
+            path: "./img/emojis/game/orange.svg"
         }, {
             name: "strawberry",
             emoji: "ðŸ“",
-            path: "/img/emojis/game/strawberry.svg"
+            path: "./img/emojis/game/strawberry.svg"
         }, {
             name: "piano",
             emoji: "ðŸŽ¹",
-            path: "/img/emojis/game/piano.svg"
+            path: "./img/emojis/game/piano.svg"
         }, {
             name: "hammer",
             emoji: "ðŸ”¨",
-            path: "/img/emojis/game/hammer.svg"
+            path: "./img/emojis/game/hammer.svg"
         }, {
             name: "microphone",
             emoji: "ðŸŽ¤",
-            path: "/img/emojis/game/microphone.svg"
+            path: "./img/emojis/game/microphone.svg"
         }, {
             name: "broccoli",
             emoji: "ðŸ¥¦",
-            path: "/img/emojis/game/broccoli.svg"
+            path: "./img/emojis/game/broccoli.svg"
         }, {
             name: "lipstick",
             emoji: "ðŸ’„",
-            path: "/img/emojis/game/lipstick.svg"
+            path: "./img/emojis/game/lipstick.svg"
         }, {
             name: "lock",
             emoji: "ðŸ”’",
-            path: "/img/emojis/game/lock.svg"
+            path: "./img/emojis/game/lock.svg"
         }, {
             name: "mailbox",
             emoji: "ðŸ“ª",
-            path: "/img/emojis/game/mailbox.svg"
+            path: "./img/emojis/game/mailbox.svg"
         }, {
             name: "soccer ball",
             emoji: "âš½",
-            path: "/img/emojis/game/soccer ball.svg"
+            path: "./img/emojis/game/soccer ball.svg"
         }, {
             name: "mushroom",
             emoji: "ðŸ„",
-            path: "/img/emojis/game/mushroom.svg"
+            path: "./img/emojis/game/mushroom.svg"
         }, {
             name: "lemon",
             emoji: "ðŸ‹",
-            path: "/img/emojis/game/lemon.svg"
+            path: "./img/emojis/game/lemon.svg"
         }, {
             name: "baseball",
             emoji: "âš¾",
-            path: "/img/emojis/game/baseball.svg"
+            path: "./img/emojis/game/baseball.svg"
         }, {
             name: "basketball",
             emoji: "ðŸ€",
-            path: "/img/emojis/game/basketball.svg"
+            path: "./img/emojis/game/basketball.svg"
         }, {
             name: "flashlight",
             emoji: "ðŸ”¦",
-            path: "/img/emojis/game/flashlight.svg"
+            path: "./img/emojis/game/flashlight.svg"
         }, {
             name: "candle",
             emoji: "ðŸ•¯",
-            path: "/img/emojis/game/candle.svg"
+            path: "./img/emojis/game/candle.svg"
         }, {
             name: "radio",
             emoji: "ðŸ“»",
-            path: "/img/emojis/game/radio.svg"
+            path: "./img/emojis/game/radio.svg"
         }], r.EMOJIS_LVL_5 = [{
             name: "fish",
             emoji: "ðŸŸ",
-            path: "/img/emojis/game/fish.svg"
+            path: "./img/emojis/game/fish.svg"
         }, {
             name: "icecream",
             emoji: "ðŸ¨",
-            path: "/img/emojis/game/icecream.svg"
+            path: "./img/emojis/game/icecream.svg"
         }, {
             name: "pizza",
             emoji: "ðŸ•",
-            path: "/img/emojis/game/pizza.svg"
+            path: "./img/emojis/game/pizza.svg"
         }, {
             name: "bird",
             emoji: "ðŸ¦",
-            path: "/img/emojis/game/bird.svg"
+            path: "./img/emojis/game/bird.svg"
         }, {
             name: "cassette",
             emoji: "ðŸ“¼",
-            path: "/img/emojis/game/cassette.svg"
+            path: "./img/emojis/game/cassette.svg"
         }, {
             name: "hamburger",
             emoji: "ðŸ”",
-            path: "/img/emojis/game/hamburger.svg"
+            path: "./img/emojis/game/hamburger.svg"
         }, {
             name: "hotdog",
             emoji: "ðŸŒ­",
-            path: "/img/emojis/game/hotdog.svg"
+            path: "./img/emojis/game/hotdog.svg"
         }, {
             name: "fries",
             emoji: "ðŸŸ",
-            path: "/img/emojis/game/fries.svg"
+            path: "./img/emojis/game/fries.svg"
         }, {
             name: "ramen",
             emoji: "ðŸœ",
-            path: "/img/emojis/game/ramen.svg"
+            path: "./img/emojis/game/ramen.svg"
         }, {
             name: "donut",
             emoji: "ðŸ©",
-            path: "/img/emojis/game/donut.svg"
+            path: "./img/emojis/game/donut.svg"
         }, {
             name: "sushi",
             emoji: "ðŸ£",
-            path: "/img/emojis/game/sushi.svg"
+            path: "./img/emojis/game/sushi.svg"
         }, {
             name: "taco",
             emoji: "ðŸŒ®",
-            path: "/img/emojis/game/taco.svg"
+            path: "./img/emojis/game/taco.svg"
         }, {
             name: "burrito",
             emoji: "ðŸŒ¯",
-            path: "/img/emojis/game/burrito.svg"
+            path: "./img/emojis/game/burrito.svg"
         }, {
             name: "traffic light",
             emoji: "ðŸš¦",
-            path: "/img/emojis/game/traffic light.svg"
+            path: "./img/emojis/game/traffic light.svg"
         }, {
             name: "bus",
             emoji: "ðŸšŽ",
-            path: "/img/emojis/game/bus.svg"
+            path: "./img/emojis/game/bus.svg"
         }, {
             name: "truck",
             emoji: "ðŸšš",
-            path: "/img/emojis/game/truck.svg"
+            path: "./img/emojis/game/truck.svg"
         }, {
             name: "screw",
             emoji: "ðŸ”©",
-            path: "/img/emojis/game/screw.svg"
+            path: "./img/emojis/game/screw.svg"
         }, {
             name: "sax",
             emoji: "ðŸŽ·",
-            path: "/img/emojis/game/sax.svg"
+            path: "./img/emojis/game/sax.svg"
         }, {
             name: "baby bottle",
             emoji: "ðŸ¼",
-            path: "/img/emojis/game/baby bottle.svg"
+            path: "./img/emojis/game/baby bottle.svg"
         }, {
             name: "motor scooter",
             emoji: "ðŸ›µ",
-            path: "/img/emojis/game/motor scooter.svg"
+            path: "./img/emojis/game/motor scooter.svg"
         }, {
             name: "magnifying glass",
             emoji: "ðŸ”Ž",
-            path: "/img/emojis/game/magnifying glass.svg"
+            path: "./img/emojis/game/magnifying glass.svg"
         }, {
             name: "jack o lantern",
             emoji: "ðŸŽƒ",
-            path: "/img/emojis/game/jack o lantern.svg"
+            path: "./img/emojis/game/jack o lantern.svg"
         }], r.EMOJIS_LVL_DEMO = [{
             name: "watch",
             emoji: "âŒš",
-            path: "/img/emojis/game/watch.svg"
+            path: "./img/emojis/game/watch.svg"
         }, {
             name: "shoe",
             emoji: "ðŸ‘ž",
-            path: "/img/emojis/game/shoe.svg"
+            path: "./img/emojis/game/shoe.svg"
         }, {
             name: "banana",
             emoji: "ðŸŒ",
-            path: "/img/emojis/game/banana.svg"
+            path: "./img/emojis/game/banana.svg"
         }, {
             name: "beer",
             emoji: "ðŸº",
-            path: "/img/emojis/game/beer.svg"
+            path: "./img/emojis/game/beer.svg"
         }, {
             name: "jack o lantern",
             emoji: "ðŸŽƒ",
-            path: "/img/emojis/game/jack o lantern.svg"
+            path: "./img/emojis/game/jack o lantern.svg"
         }]
     }, {}],
     503: [function(e, t, r) {
